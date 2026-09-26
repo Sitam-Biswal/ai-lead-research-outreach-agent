@@ -48,6 +48,7 @@ Run:
 streamlit run app.py
 ```
 
+<<<<<<< HEAD
 ## Batch CSV Processing (Stretch Goal)
 
 Upload a CSV containing a `company` column. The app researches each company, calculates its ICP score, generates email and LinkedIn outreach, displays the results, and provides a `results.csv` download.
@@ -60,6 +61,8 @@ https://example.com
 https://anothercompany.com
 ```
 
+=======
+>>>>>>> 8e9f4fee57b050da91d7f875fb6f9caf4ea988cc
 ## Demo Flow
 
 1. Enter a company website.
