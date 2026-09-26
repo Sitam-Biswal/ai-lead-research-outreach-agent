@@ -15,7 +15,7 @@ with st.sidebar:
     st.write("- 20+ employees")
     st.write("- Potential automation / AI need")
 
-<<<<<<< HEAD
+
 st.divider()
 st.header("📊 Batch CSV Processing")
 st.caption("Optional stretch goal: upload multiple companies and download the research, score, and outreach results.")
@@ -82,8 +82,7 @@ if csv_file is not None:
 
 st.divider()
 
-=======
->>>>>>> 8e9f4fee57b050da91d7f875fb6f9caf4ea988cc
+
 company = st.text_input("Company name or website", placeholder="e.g. https://example.com")
 run = st.button("Research & Generate", type="primary", use_container_width=True)
 
