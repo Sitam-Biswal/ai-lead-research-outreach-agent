@@ -3,8 +3,4 @@ requests>=2.32
 beautifulsoup4>=4.12
 openai>=1.40
 python-dotenv>=1.0
-<<<<<<< HEAD
-
-pandas>=2.2
-=======
->>>>>>> 8e9f4fee57b050da91d7f875fb6f9caf4ea988cc
+pandas>=2.0
